@@ -1,0 +1,512 @@
+[
+  {
+    "category": "Admissions",
+    "question": "How can I apply for admission to the college?",
+    "answer": "You can apply online through the official college admission portal at admissions.college.edu. Register, fill out the form, upload the required academic documents, and pay the registration fee."
+  },
+  {
+    "category": "Admissions",
+    "question": "What are the eligibility criteria for undergraduate programs?",
+    "answer": "Applicants must have completed High School / 12th grade or equivalent with a minimum of 60% aggregate. Engineering and Science courses require Physics, Chemistry, and Mathematics/Biology."
+  },
+  {
+    "category": "Admissions",
+    "question": "Is there an entrance exam for admission?",
+    "answer": "Yes, depending on the course. Engineering admissions require standard state/national entrance scores (or the College Entrance Test), whereas Arts and Commerce admissions are merit-based."
+  },
+  {
+    "category": "Admissions",
+    "question": "What documents are required during admission?",
+    "answer": "You need your 10th and 12th grade mark sheets, transfer certificate, migration certificate, character certificate, 4 passport-size photographs, and copy of a government-issued ID."
+  },
+  {
+    "category": "Admissions",
+    "question": "Can I get a refund on my admission fee if I cancel?",
+    "answer": "Yes, fee refunds are processed according to UGC/college guidelines. If canceled before classes begin, 90% is refunded. No refund is given 30 days after class commencement."
+  },
+  {
+    "category": "Admissions",
+    "question": "Are international students eligible to apply?",
+    "answer": "Absolutely. International students must submit equivalent qualification credentials verified by AIU and proof of English proficiency (TOEFL/IELTS) to the International Student Office."
+  },
+  {
+    "category": "Admissions",
+    "question": "What is the application deadline for the upcoming semester?",
+    "answer": "The application portal closes on July 31st for the Fall semester, and November 30th for the Spring semester."
+  },
+  {
+    "category": "Admissions",
+    "question": "Does the college offer lateral entry options?",
+    "answer": "Yes, diploma holders in relevant fields of engineering and technology can apply for lateral entry directly into the 2nd year of B.Tech programs."
+  },
+  {
+    "category": "Academics",
+    "question": "What is the minimum attendance requirement to sit for exams?",
+    "answer": "Students must maintain a minimum of 75% attendance in each course. Medical allowances up to 10% may be granted with official doctor's certificates submitted within 3 days of absence."
+  },
+  {
+    "category": "Academics",
+    "question": "How do I request an official academic transcript?",
+    "answer": "Submit a transcript application form to the Controller of Examinations office along with a receipt of the processing fee ($15). Transcripts are issued within 5-7 working days."
+  },
+  {
+    "category": "Academics",
+    "question": "Can I change my elective course after registration?",
+    "answer": "Yes, course changes are allowed within the first 2 weeks of the semester commencement by submitting an Elective Change Form signed by your department head."
+  },
+  {
+    "category": "Academics",
+    "question": "Who is my academic advisor and how do I find them?",
+    "answer": "Each student is assigned a faculty advisor. You can view your advisor's name, email, and office room number in the Academic Profile section of the Student Portal."
+  },
+  {
+    "category": "Academics",
+    "question": "What is the grading system used by the college?",
+    "answer": "We use a 10-point CGPA grading scale. Grades range from O (Outstanding - 10 points), A+ (Excellent - 9 points), down to F (Fail - 0 points)."
+  },
+  {
+    "category": "Academics",
+    "question": "What happens if I fail a course?",
+    "answer": "If you fail a course, you must register for the backlog exam in the next semester or complete a summer remedial course to clear the credits."
+  },
+  {
+    "category": "Academics",
+    "question": "How can I apply for a branch change or major swap?",
+    "answer": "Branch changes are permitted at the end of the 1st year based on CGPA merit. You must have a CGPA of 8.5 or higher and no backlogs to apply."
+  },
+  {
+    "category": "Academics",
+    "question": "Does the college offer double major options?",
+    "answer": "Currently, we offer minor specializations alongside your major. You need to earn 18 additional credits in the minor discipline to get the certification."
+  },
+  {
+    "category": "Hostel",
+    "question": "What are the hostel room sharing options and fee details?",
+    "answer": "We offer single, double, and triple sharing rooms. Annual fees range from $1,200 to $2,500 including laundry, Wi-Fi, electricity, and room cleaning."
+  },
+  {
+    "category": "Hostel",
+    "question": "What is the curfew time for hostel residents?",
+    "answer": "The curfew time is 9:30 PM. Late entry is allowed up to 10:30 PM with prior written permission from the Warden or an authorized local guardian."
+  },
+  {
+    "category": "Hostel",
+    "question": "Are visitors or parents allowed in the hostel rooms?",
+    "answer": "Parents and guests can visit in the hostel common lounge area during visiting hours (4:00 PM - 7:30 PM). They are strictly prohibited from entering student rooms due to security policies."
+  },
+  {
+    "category": "Hostel",
+    "question": "Who do I contact for maintenance issues in my room?",
+    "answer": "You can raise a maintenance ticket directly in the Hostel App or write in the maintenance register at the hostel reception desk. Issues are resolved within 24-48 hours."
+  },
+  {
+    "category": "Hostel",
+    "question": "Is mess food included in the hostel fee?",
+    "answer": "Yes, the hostel fee includes charges for 4 daily meals (Breakfast, Lunch, High Tea, and Dinner) at the respective mess hall."
+  },
+  {
+    "category": "Hostel",
+    "question": "Are electric appliances like induction cookers or heaters allowed in rooms?",
+    "answer": "No, high-wattage appliances are strictly prohibited due to fire hazard concerns. Unauthorized appliances will be confiscated and result in a fine."
+  },
+  {
+    "category": "Hostel",
+    "question": "Is there a laundry facility available in the hostels?",
+    "answer": "Yes, common laundry rooms with washing machines are located on every floor. A professional laundry service picks up clothes twice a week (included in the hostel fee)."
+  },
+  {
+    "category": "Hostel",
+    "question": "What happens if I fall ill in the hostel?",
+    "answer": "Notify your Hostel Warden immediately. The campus health center is open 24/7, and an ambulance is available on standby for emergency transport to the affiliated hospital."
+  },
+  {
+    "category": "Exams",
+    "question": "When are the mid-term and end-term exams scheduled?",
+    "answer": "Mid-term exams occur in the 8th week of the semester, and end-term exams begin in the 16th week. Check the Academic Calendar for exact dates."
+  },
+  {
+    "category": "Exams",
+    "question": "What is the procedure to apply for revaluation of exam papers?",
+    "answer": "Apply within 7 days of result declaration by filling the Revaluation Form on the Student Portal and paying $20 per paper. Your script will be re-evaluated by an external examiner."
+  },
+  {
+    "category": "Exams",
+    "question": "What should I do if I miss an exam due to a medical emergency?",
+    "answer": "Submit a medical certificate signed by a government doctor and attested by the campus health officer to the Dean of Academics within 5 working days. A make-up exam may be scheduled."
+  },
+  {
+    "category": "Exams",
+    "question": "Where can I find my exam seating arrangement and schedule?",
+    "answer": "Exam timetables and seating plans are posted on the Student Portal and exam bulletin boards 1 week prior to the exam commencement."
+  },
+  {
+    "category": "Exams",
+    "question": "What is considered malpractice during examinations?",
+    "answer": "Possession of mobile phones, smartwatches, cheat sheets, or talking/copying during exams constitutes malpractice. Penalties range from paper cancellation to suspension."
+  },
+  {
+    "category": "Exams",
+    "question": "How do I download my exam hall ticket?",
+    "answer": "Log in to the Student Portal, ensure all fee dues are cleared, and click on 'Download Admit Card' under the Examination tab."
+  },
+  {
+    "category": "Exams",
+    "question": "What is the passing mark for end-semester exams?",
+    "answer": "Students must score at least 40% in the end-semester written exam and a minimum of 50% combined score (internal assessment + external exam) to pass a course."
+  },
+  {
+    "category": "Exams",
+    "question": "How are internal assessment marks calculated?",
+    "answer": "Internals consist of class tests (15%), assignments/projects (10%), quizzes (5%), and attendance (10%), totaling 40% of the course grade."
+  },
+  {
+    "category": "Fees",
+    "question": "How and where can I pay my semester fees?",
+    "answer": "Fees can be paid online via net banking, credit/debit card, or UPI on the college payment portal (fees.college.edu), or offline via Demand Draft at the accounts desk."
+  },
+  {
+    "category": "Fees",
+    "question": "Are there scholarships available for merit or needy students?",
+    "answer": "Yes, we offer Merit Scholarships (top 5% of class), Merit-cum-Means Scholarships, and special scholarships for sports achievers and underprivileged students."
+  },
+  {
+    "category": "Fees",
+    "question": "What is the penalty for late fee payment?",
+    "answer": "A fine of $5 per day is charged for payments made after the due date. Failure to pay within 15 days of the due date results in temporary suspension of portal access."
+  },
+  {
+    "category": "Fees",
+    "question": "Does the college assist with securing education loans?",
+    "answer": "Yes, the student welfare office provides loan support letters, fee structure documents, and coordinates with partner banks (SBI, HDFC) to facilitate student loans."
+  },
+  {
+    "category": "Fees",
+    "question": "Can I pay my semester tuition fee in installments?",
+    "answer": "Installment options are granted under special circumstances. Parents must submit a written request with income proof to the Chief Accounts Officer for approval."
+  },
+  {
+    "category": "Fees",
+    "question": "Are laboratory and library fees refundable?",
+    "answer": "No, lab and library fees are part of operational costs and are non-refundable. Only the library caution deposit is refundable upon graduation or withdrawal."
+  },
+  {
+    "category": "Fees",
+    "question": "How do I get a receipt for my online fee payment?",
+    "answer": "An e-receipt is generated immediately after transaction approval. You can also download past fee receipts anytime from the 'Payment History' section of the Student Portal."
+  },
+  {
+    "category": "Fees",
+    "question": "What is the caution deposit and when is it refunded?",
+    "answer": "The caution deposit is a one-time refundable security fee paid during admission. It is refunded when you graduate or officially leave the college, after deducting any pending dues."
+  },
+  {
+    "category": "Library",
+    "question": "What are the working hours of the central library?",
+    "answer": "The central library is open Monday through Saturday from 8:00 AM to 10:00 PM. During exam weeks, the library study halls remain open 24/7."
+  },
+  {
+    "category": "Library",
+    "question": "How many books can a student borrow at a time?",
+    "answer": "Undergraduate students can borrow up to 4 books for a duration of 14 days. Postgraduate students can borrow up to 6 books for 21 days."
+  },
+  {
+    "category": "Library",
+    "question": "What is the fine for returning a library book late?",
+    "answer": "A fine of $0.50 per day is charged for general books, and $2.00 per day for reference/course reserve books returned after the due date."
+  },
+  {
+    "category": "Library",
+    "question": "How do I access online journals and research databases?",
+    "answer": "Log in to the Library portal using your student credentials to access subscribed e-resources like IEEE Xplore, ScienceDirect, Springer, and JSTOR."
+  },
+  {
+    "category": "Library",
+    "question": "Can I renew a borrowed book online?",
+    "answer": "Yes, books can be renewed online once through the Library OPAC portal before the due date, provided no other student has placed a reservation hold on it."
+  },
+  {
+    "category": "Library",
+    "question": "What should I do if I lose a borrowed library book?",
+    "answer": "You must report the loss immediately to the Librarian. You will be required to replace the book with its latest edition or pay twice the current market price of the book."
+  },
+  {
+    "category": "Library",
+    "question": "Are there discussion rooms for group study in the library?",
+    "answer": "Yes, we have 6 group discussion rooms. They can be booked at the circulation desk for a maximum of 2 hours per group."
+  },
+  {
+    "category": "Library",
+    "question": "Is there a photocopy or printing facility inside the library?",
+    "answer": "Yes, a document center is available on the ground floor providing photocopy, printing, and scanning services at nominal rates."
+  },
+  {
+    "category": "General",
+    "question": "Is the campus fully Wi-Fi enabled and how do I connect?",
+    "answer": "Yes, the entire campus has high-speed Wi-Fi. Register your device MAC address at the IT Helpdesk to receive your personalized login credentials."
+  },
+  {
+    "category": "General",
+    "question": "Where is the student health center located and what are its timings?",
+    "answer": "The health center is located next to the Sports Complex. A medical officer and nursing staff are on-duty 24/7 for consultations and emergencies."
+  },
+  {
+    "category": "General",
+    "question": "What are the rules regarding keeping vehicles on campus?",
+    "answer": "Day scholars and hostellers can keep two-wheelers on campus. You must obtain a parking sticker from the security office by submitting your driving license and vehicle RC."
+  },
+  {
+    "category": "General",
+    "question": "How do I join student clubs and technical societies?",
+    "answer": "Club orientations and recruitment drives take place during the 'Club Fair' held in the 3rd week of the academic year. You can register online through the Student Portal."
+  },
+  {
+    "category": "Placements",
+    "question": "What assistance does the training and placement cell offer?",
+    "answer": "The Training & Placement (T&P) cell coordinates campus placements, conducts mock interviews, resume-building workshops, and arranges industry visits."
+  },
+  {
+    "category": "Placements",
+    "question": "When do campus placement drives start?",
+    "answer": "Campus placement drives for final-year students typically begin in August and continue until May of the next year."
+  },
+  {
+    "category": "Placements",
+    "question": "Are internships mandatory for graduation?",
+    "answer": "Yes, most engineering and management courses require a mandatory summer internship of 6 to 8 weeks in the pre-final year."
+  },
+  {
+    "category": "Placements",
+    "question": "What is the average placement package offered on campus?",
+    "answer": "The average salary package ranges between $7,000 to $12,000 per annum, with the highest packages exceeding $45,000 for top tech and management roles."
+  },
+  {
+    "category": "Placements",
+    "question": "Can a student receive multiple job offers?",
+    "answer": "Under our 'One Student, One Job' policy, a student who secures an offer cannot participate in subsequent drives, except for 'Dream' or 'Super Dream' company offers."
+  },
+  {
+    "category": "Placements",
+    "question": "How can I register with the placement cell?",
+    "answer": "Registration opens in the pre-final semester via the Placement Portal. Students must upload their verified CV and grade sheets."
+  },
+  {
+    "category": "Placements",
+    "question": "Does the college support startup ideas or entrepreneurship?",
+    "answer": "Yes, the college has an Entrepreneurship Cell (E-Cell) and an Incubation Center that provides mentoring, workspace, and seed funding support."
+  },
+  {
+    "category": "Placements",
+    "question": "What companies regularly visit the campus for placements?",
+    "answer": "Top recruiters include Microsoft, Google, Amazon, TCS, Infosys, Cognizant, Accenture, Deloitte, and ICICI Bank."
+  },
+  {
+    "category": "IT Support",
+    "question": "How do I reset my student portal or Wi-Fi password?",
+    "answer": "You can reset your password online using the 'Forgot Password' link, or visit the central IT Helpdesk in the admin block with your student ID."
+  },
+  {
+    "category": "IT Support",
+    "question": "Are there software licenses provided for students?",
+    "answer": "Yes, students get free institutional access to Microsoft Office 365, MATLAB, AutoCAD, SolidWorks, and AWS Academy."
+  },
+  {
+    "category": "IT Support",
+    "question": "Where are the computer labs located and what are their timings?",
+    "answer": "Central computer labs are on the 2nd floor of the Academic Block, open from 9:00 AM to 7:00 PM on weekdays."
+  },
+  {
+    "category": "IT Support",
+    "question": "How can I report a problem with the campus Wi-Fi?",
+    "answer": "You can submit an IT support ticket on the student portal or email helpdesk@college.edu with the location and MAC address."
+  },
+  {
+    "category": "IT Support",
+    "question": "Is there a student email account provided?",
+    "answer": "Yes, every registered student gets an official email account (e.g., student.name@student.college.edu) within 3 days of admission."
+  },
+  {
+    "category": "IT Support",
+    "question": "Can I print documents wirelessly from my own laptop?",
+    "answer": "Yes, using the WebPrint portal, you can upload your documents and print them at any self-service kiosk using your student card."
+  },
+  {
+    "category": "IT Support",
+    "question": "Are there restrictions on internet usage on the campus network?",
+    "answer": "Yes, peer-to-peer torrent downloads, online gaming, and access to inappropriate or malicious websites are blocked on the campus firewall."
+  },
+  {
+    "category": "Facilities",
+    "question": "Is there a gymnasium on campus and what are its timings?",
+    "answer": "The campus gym is located in the Sports Complex and is open daily from 6:00 AM to 9:00 AM and 5:00 PM to 8:30 PM."
+  },
+  {
+    "category": "Facilities",
+    "question": "Where can I find ATMs or bank branches on campus?",
+    "answer": "A full-service branch of our partner bank along with two 24/7 ATMs is located near the campus main entrance gate."
+  },
+  {
+    "category": "Facilities",
+    "question": "Are there food options on campus other than the hostel mess?",
+    "answer": "Yes, the campus has a central cafeteria, a food court with 5 different brand outlets, and 2 coffee kiosks open until midnight."
+  },
+  {
+    "category": "Facilities",
+    "question": "Does the college provide transport services for day scholars?",
+    "answer": "Yes, a fleet of college buses operates on 12 distinct routes covering the entire city. Bus passes can be purchased per semester."
+  },
+  {
+    "category": "Facilities",
+    "question": "Is there a convenience store for daily needs on campus?",
+    "answer": "Yes, the utility store near the hostels stocks stationery, snacks, toiletries, and basic household items."
+  },
+  {
+    "category": "Facilities",
+    "question": "Where is the lost and found office located?",
+    "answer": "The lost and found desk is managed by the Campus Security Headquarters near the main gate. Lost items can be reported online."
+  },
+  {
+    "category": "Facilities",
+    "question": "Can I book campus auditoriums or seminar halls for events?",
+    "answer": "Yes, student clubs can reserve halls through the Student Welfare Office at least 5 days in advance."
+  },
+  {
+    "category": "Facilities",
+    "question": "Is there guest house accommodation for visiting parents?",
+    "answer": "Yes, the campus has an executive guest house. Rooms can be booked by students for their parents at nominal rates."
+  },
+  {
+    "category": "Clubs & Activities",
+    "question": "What are the major annual cultural and technical festivals?",
+    "answer": "We host 'Aura', the annual cultural fest in March, and 'Innovate', the national technical symposium in October."
+  },
+  {
+    "category": "Clubs & Activities",
+    "question": "How do I start a new student club or interest group?",
+    "answer": "You need a faculty advisor and at least 15 interested student members. Submit a proposal to the Dean of Student Welfare."
+  },
+  {
+    "category": "Clubs & Activities",
+    "question": "Are there sports teams I can try out for?",
+    "answer": "Yes, we have varsity teams for Cricket, Football, Basketball, Volleyball, Tennis, Athletics, and Table Tennis."
+  },
+  {
+    "category": "Clubs & Activities",
+    "question": "Is there a student council or student government?",
+    "answer": "Yes, the Student Council is elected annually, consisting of a President, Vice President, and student representatives from each department."
+  },
+  {
+    "category": "Clubs & Activities",
+    "question": "What community service initiatives can I join?",
+    "answer": "Students can join the National Service Scheme (NSS), Rotary Club, or the college's Green Campus initiative for community outreach."
+  },
+  {
+    "category": "Clubs & Activities",
+    "question": "Does the college have a music or drama club?",
+    "answer": "Yes, 'Harmony' (Music Club) and 'ActOne' (Dramatics Club) host regular performances and workshops throughout the year."
+  },
+  {
+    "category": "Clubs & Activities",
+    "question": "How can I publish an article in the college magazine?",
+    "answer": "Submit your articles, poems, or artwork to the student editorial board at magazine@college.edu during the call for submissions."
+  },
+  {
+    "category": "Health & Wellness",
+    "question": "Are counseling services available for mental health support?",
+    "answer": "Yes, the campus wellness center has full-time counselors. Sessions are free, confidential, and can be booked online."
+  },
+  {
+    "category": "Health & Wellness",
+    "question": "Is medical insurance provided to students?",
+    "answer": "Yes, all students are covered under a group medical insurance policy for up to $2,500 for emergency hospitalization."
+  },
+  {
+    "category": "Health & Wellness",
+    "question": "How do I report a medical emergency on campus?",
+    "answer": "Call the 24/7 campus medical helpline at 555-0199 or alert the nearest hostel warden or security guard."
+  },
+  {
+    "category": "Health & Wellness",
+    "question": "Does the health center organize regular medical checkups?",
+    "answer": "Yes, annual health checkups, blood donation camps, and vaccination drives are organized on campus."
+  },
+  {
+    "category": "Health & Wellness",
+    "question": "What should I do if I need special dietary food due to a medical condition?",
+    "answer": "Submit a medical certificate to the hostel mess warden. Custom meals like boiled vegetables or non-dairy diets will be prepared."
+  },
+  {
+    "category": "Academic Support",
+    "question": "Is there tutoring or academic support for students struggling in classes?",
+    "answer": "Yes, departments run Peer Tutoring Programs and remedial classes for difficult core subjects every weekend."
+  },
+  {
+    "category": "Academic Support",
+    "question": "What is the procedure for semester registration?",
+    "answer": "Semester registration opens online 1 week before classes begin. Clear all fee dues, select electives, and click 'Complete Registration'."
+  },
+  {
+    "category": "Academic Support",
+    "question": "Can I audit a course without earning credit?",
+    "answer": "Yes, with permission from the course instructor and department head, you can audit a course. It will appear on your transcript as 'AUD'."
+  },
+  {
+    "category": "Academic Support",
+    "question": "Where can I check my semester grades and GPA?",
+    "answer": "Grades are published on the Student Portal under the 'Grades & Transcript' tab after the end-semester evaluation is complete."
+  },
+  {
+    "category": "Academic Support",
+    "question": "How can I apply for an internship NOC (No Objection Certificate)?",
+    "answer": "Apply on the Student Portal, upload the internship offer letter, and download the approved NOC signed by the Dean."
+  },
+  {
+    "category": "Admissions & Scholarships",
+    "question": "Are scholarship renewals automatic every year?",
+    "answer": "No, scholarships must be renewed annually by maintaining a minimum CGPA of 8.0 and zero disciplinary actions."
+  },
+  {
+    "category": "Admissions & Scholarships",
+    "question": "Can I transfer credits from another university?",
+    "answer": "Yes, credit transfers are evaluated by the Equivalence Committee. A maximum of 50% credits can be transferred."
+  },
+  {
+    "category": "Admissions & Scholarships",
+    "question": "Is there a fee waiver for students belonging to weaker economic sections?",
+    "answer": "Yes, we offer a tuition fee waiver of up to 100% based on family income and academic merit."
+  },
+  {
+    "category": "Admissions & Scholarships",
+    "question": "What is the fee structure for postgraduate programs?",
+    "answer": "M.Tech/MBA annual fees range between $2,000 to $4,500 depending on the specialization. Check the detailed brochure on the website."
+  },
+  {
+    "category": "Admissions & Scholarships",
+    "question": "Does the college offer research fellowships for PhD candidates?",
+    "answer": "Yes, full-time PhD candidates receive a monthly institutional fellowship of $400 for teaching/research assistantship."
+  },
+  {
+    "category": "Miscellaneous",
+    "question": "How can I replace a lost student ID card?",
+    "answer": "File a report with the security desk, pay a replacement fee of $10 at the accounts counter, and collect your new ID card from the registrar's office."
+  },
+  {
+    "category": "Miscellaneous",
+    "question": "Are there locker facilities available on campus?",
+    "answer": "Yes, lockers are available in academic blocks and can be rented per semester at the student union office."
+  },
+  {
+    "category": "Miscellaneous",
+    "question": "What are the rules regarding anti-ragging on campus?",
+    "answer": "Ragging is strictly prohibited. The college has a zero-tolerance policy. Violations should be reported to the Anti-Ragging Helpline."
+  },
+  {
+    "category": "Miscellaneous",
+    "question": "How can I register a grievance or complaint?",
+    "answer": "Submit a formal complaint online via the Grievance Redressal Portal or drop a written complaint in the grievance boxes placed in admin halls."
+  },
+  {
+    "category": "Miscellaneous",
+    "question": "Is smoking or alcohol consumption allowed on campus?",
+    "answer": "No, the campus is a strictly alcohol-free, drug-free, and smoke-free zone. Possession or consumption leads to immediate suspension."
+  }
+]
