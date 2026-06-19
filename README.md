@@ -1,5 +1,3 @@
-Bhai agar isse ek **real GitHub AI project** ki tarah present karna hai (na internship, na author bio, na "star the repo"), toh README ka tone product/documentation jaisa hona chahiye.
-
 ---
 
 # 🤖 AI FAQ Chatbot
